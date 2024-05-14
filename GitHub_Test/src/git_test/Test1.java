@@ -2,6 +2,6 @@ package git_test;
 
 public class Test1 {
 	/**
-	 * Å×½ºÆ®¿ë ÆäÀÌÁö
+	 * í…ŒìŠ¤íŠ¸ìš© íŒŒì¼
 	 */
 }
